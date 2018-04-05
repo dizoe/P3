@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Rock Quiz</string>
+    <string name="question_1"> 1. Who was the first rock\'n roll superstar?</string>
+    <string name="q1_a1">Bob Marley</string>
+    <string name="q1_a2">Jim Morrison</string>
+    <string name="q1_a3">Jimi Hendrix</string>
+    <string name="q1_a4">Elvis Presley</string>
+    <string name="question_2"> 2. Which band released a famous album called "The Wall"?</string>
+    <string name="q2_a1">The Who</string>
+    <string name="q2_a2">The Beatles</string>
+    <string name="q2_a3">Pink Floyd</string>
+    <string name="q2_a4">Bon Jovi</string>
+    <string name="question_3"> 3. What are the main instruments in a classic three-piece rock band?</string>
+    <string name="q3_a1">Bass</string>
+    <string name="q3_a2">Drums</string>
+    <string name="q3_a3">Violin</string>
+    <string name="q3_a4">Guitar</string>
+    <string name="q3_a5">Trumpet</string>
+    <string name="question_4">4. What was the world\'s first "rock opera"?</string>
+    <string name="question_5">5. Who originally sing knockin\' on heaven\'s door?</string>
+    <string name="q5_a1">Billy Joel</string>
+    <string name="q5_a2">Guns n\' Roses</string>
+    <string name="q5_a3">Bob Dylan</string>
+    <string name="q5_a4">Blondie</string>
+    <string name="question_6">6. Which Beatles song did Frank Sinatra describe as the greatest love song ever written?</string>
+    <string name="q6_a1">Love Me Do</string>
+    <string name="q6_a2">Strawberry Fields Forever</string>
+    <string name="q6_a3">Something</string>
+    <string name="q6_a4">Let It Be</string>
+    <string name="question_7">7. Who released the song Johnny B. Goode in 1958?</string>
+    <string name="show_scores">Show score</string>
+    <string name="final_score">0</string>
+    <string name="reset">Reset</string>
+</resources>
